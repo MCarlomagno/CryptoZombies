@@ -1,0 +1,3 @@
+describe("zombieFactory", function () {
+  // todo.
+});
